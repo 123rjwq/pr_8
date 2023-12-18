@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Пр_8_ИндивРаб_Старостин
+namespace pr_8_2
 {
     class Transport
     {
